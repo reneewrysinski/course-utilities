@@ -2,9 +2,9 @@
 A course scraping set of Jupyter notebooks and accompanying data-tools based off Rice University course-data.
 
 ## History Viewer
-The history viewer can be seen [here](https://fadileledath.com/course-scraper/history/) and is used to see when courses have historically been offered.
+The history viewer can be seen [here](https://reneewrysinski.github.io/course-utilities/history/) and is used to see when courses have historically been offered.
 ## Course Explorer
-The course explorer can be seen [here](https://fadileledath.com/course-scraper/explorer/) and acts as an alternative to Rice's course schedule with real-time functionality and less downtime
+The course explorer can be seen [here](https://reneewrysinski.github.io/course-utilities/explorer/) and acts as an alternative to Rice's course schedule with real-time functionality and less downtime
 
 ## The dataset
 The dataset is scraped using Python using two separate Jupyter notebooks and collated using a third notebook. It consists of:
